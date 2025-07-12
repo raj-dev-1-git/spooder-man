@@ -46,3 +46,8 @@ Enter the starting URL when prompted. The crawler will explore and print links u
 * Concurrency with threads
 * URL deduplication with sets
 * Queue-based crawl control
+
+## Example Output
+
+![Crawler Output](crrawlop.png)
+
