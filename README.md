@@ -49,5 +49,5 @@ Enter the starting URL when prompted. The crawler will explore and print links u
 
 ## Example Output
 
-![Crawler Output](crrawlop.png)
+![Crawler Output](crawlop.png)
 
